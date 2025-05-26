@@ -1,0 +1,86 @@
+2025-05-25 23:53:56,019 - INFO - Inicio de la aplicaci�n Cl�nica Veterinaria
+2025-05-25 23:54:19,733 - ERROR - Excepci�n general al registrar mascota.
+Traceback (most recent call last):
+  File "c:\Users\danil\OneDrive\Escritorio\Software Development\Programming\Python\Curso SoftServe\sistema_avanzado_gestion_veterinaria\main.py", line 70, in registrar_mascota
+    if edad < 0:
+       ^^^^^^^^
+TypeError: '<' not supported between instances of 'str' and 'int'
+2025-05-25 23:54:50,589 - ERROR - Excepci�n general al registrar mascota.
+Traceback (most recent call last):
+  File "c:\Users\danil\OneDrive\Escritorio\Software Development\Programming\Python\Curso SoftServe\sistema_avanzado_gestion_veterinaria\main.py", line 70, in registrar_mascota
+    if edad < 0:
+       ^^^^^^^^
+TypeError: '<' not supported between instances of 'str' and 'int'
+2025-05-25 23:56:12,912 - INFO - Inicio de la aplicaci�n Cl�nica Veterinaria
+2025-05-25 23:56:53,462 - INFO - Mascota registrada exitosamente: Michi, Due�o: Danilo
+2025-05-25 23:57:31,047 - INFO - Mascota registrada exitosamente: Firulais, Due�o: Mar�a
+2025-05-25 23:58:13,006 - INFO - Mascota registrada exitosamente: Kika, Due�o: Elmer
+2025-05-25 23:59:18,894 - INFO - Consulta registrada para Firulais en 2025-05-05
+2025-05-25 23:59:47,365 - INFO - No hay consultas para la mascota Michi
+2025-05-25 23:59:55,820 - ERROR - Valor inv�lido para ver historial de consultas.
+2025-05-26 00:00:02,163 - WARNING - El �ndice seleccionado est� fuera del rango: ID de mascota no v�lido.
+2025-05-26 00:00:16,171 - ERROR - Valor inv�lido para ver historial de consultas.
+2025-05-26 00:03:28,154 - INFO - Inicio de la aplicaci�n.
+2025-05-26 00:03:32,211 - INFO - Cierre de la aplicaci�n.
+2025-05-26 00:31:04,360 - WARNING - Archivo CSV de mascotas no encontrado.
+2025-05-26 00:31:04,360 - WARNING - Archivo JSON de consultas no encontrado.
+2025-05-26 00:31:04,360 - INFO - Inicio de la aplicaci�n.
+2025-05-26 00:31:57,066 - INFO - Mascota registrada exitosamente: Mu�eco, Due�o: Ana
+2025-05-26 00:33:19,241 - INFO - Mascota registrada exitosamente: Condorito, Due�o: �ngela
+2025-05-26 00:34:17,977 - INFO - Consulta registrada para Condorito en 2025-12-12
+2025-05-26 00:34:37,233 - INFO - No hay consultas para la mascota Mu�eco
+2025-05-26 00:34:53,270 - WARNING - Archivo CSV de mascotas no encontrado.
+2025-05-26 00:34:53,271 - WARNING - Archivo JSON de consultas no encontrado.
+2025-05-26 00:35:08,777 - INFO - Datos de mascotas y due�os guardados en CSV exitosamente.
+2025-05-26 00:35:08,778 - INFO - Consultas guardadas en JSON exitosamente.
+2025-05-26 00:37:05,460 - INFO - Cierre de la aplicaci�n.
+2025-05-26 00:37:05,463 - INFO - Datos de mascotas y due�os guardados en CSV exitosamente.
+2025-05-26 00:37:05,464 - INFO - Consultas guardadas en JSON exitosamente.
+2025-05-26 00:37:13,744 - INFO - Datos de mascotas y due�os cargados desde CSV exitosamente.
+2025-05-26 00:37:13,745 - INFO - Consultas cargadas desde JSON exitosamente.
+2025-05-26 00:37:13,745 - INFO - Inicio de la aplicaci�n.
+2025-05-26 00:37:19,255 - INFO - Listado solicitado con �xito. No hay mascotas registradas
+2025-05-26 00:37:24,814 - INFO - Datos de mascotas y due�os cargados desde CSV exitosamente.
+2025-05-26 00:37:24,814 - INFO - Consultas cargadas desde JSON exitosamente.
+2025-05-26 00:37:28,150 - INFO - Listado solicitado con �xito. No hay mascotas registradas
+2025-05-26 00:38:17,768 - INFO - Datos de mascotas y due�os cargados desde CSV exitosamente.
+2025-05-26 00:38:17,769 - INFO - Consultas cargadas desde JSON exitosamente.
+2025-05-26 00:38:21,014 - INFO - Listado solicitado con �xito. No hay mascotas registradas
+2025-05-26 00:43:59,413 - INFO - Listado solicitado con �xito. No hay mascotas registradas
+2025-05-26 00:44:02,437 - INFO - Cierre de la aplicaci�n.
+2025-05-26 00:44:02,439 - INFO - Datos de mascotas y due�os guardados en CSV exitosamente.
+2025-05-26 00:44:02,441 - INFO - Consultas guardadas en JSON exitosamente.
+2025-05-26 01:00:40,454 - INFO - n\�Datos de mascotas y due�os cargados desde CSV exitosamente!
+2025-05-26 01:00:40,454 - INFO - n\�Consultas cargadas desde JSON exitosamente!
+2025-05-26 01:00:40,454 - INFO - Inicio de la aplicaci�n.
+2025-05-26 01:01:12,070 - INFO - Mascota registrada exitosamente: Kika, Due�o: Elmer
+2025-05-26 01:01:48,174 - INFO - Mascota registrada exitosamente: Condorito, Due�o: �ngela
+2025-05-26 01:02:18,430 - INFO - Mascota registrada exitosamente: Bruno, Due�o: Danilo
+2025-05-26 01:02:50,344 - INFO - Consulta registrada para Kika en 2025-08-08
+2025-05-26 01:03:13,198 - INFO - Consulta registrada para Condorito en 2025-12-12
+2025-05-26 01:03:26,910 - INFO - No hay consultas para la mascota Bruno
+2025-05-26 01:03:52,054 - INFO - n\�Datos de mascotas y due�os guardados en CSV exitosamente!
+2025-05-26 01:03:52,056 - INFO - n\�Consultas guardadas en JSON exitosamente!
+2025-05-26 01:04:15,462 - INFO - Cierre de la aplicaci�n.
+2025-05-26 01:04:15,464 - INFO - n\�Datos de mascotas y due�os guardados en CSV exitosamente!
+2025-05-26 01:04:15,464 - INFO - n\�Consultas guardadas en JSON exitosamente!
+2025-05-26 01:04:24,958 - INFO - n\�Datos de mascotas y due�os cargados desde CSV exitosamente!
+2025-05-26 01:04:24,958 - INFO - n\�Consultas cargadas desde JSON exitosamente!
+2025-05-26 01:04:24,958 - INFO - Inicio de la aplicaci�n.
+2025-05-26 01:04:45,038 - INFO - n\�Datos de mascotas y due�os cargados desde CSV exitosamente!
+2025-05-26 01:04:45,038 - INFO - n\�Consultas cargadas desde JSON exitosamente!
+2025-05-26 01:04:45,038 - INFO - Inicio de la aplicaci�n.
+2025-05-26 01:06:48,858 - INFO - Inicio de la aplicaci�n.
+2025-05-26 01:06:51,913 - INFO - Listado solicitado con �xito. No hay mascotas registradas
+2025-05-26 01:07:02,585 - INFO - n\�Datos de mascotas y due�os cargados desde CSV exitosamente!
+2025-05-26 01:07:02,586 - INFO - n\�Consultas cargadas desde JSON exitosamente!
+2025-05-26 01:07:13,695 - INFO - Cierre de la aplicaci�n.
+2025-05-26 01:07:13,695 - INFO - n\�Datos de mascotas y due�os guardados en CSV exitosamente!
+2025-05-26 01:07:13,695 - INFO - n\�Consultas guardadas en JSON exitosamente!
+2025-05-26 01:07:57,022 - INFO - Inicio de la aplicaci�n.
+2025-05-26 01:08:02,162 - INFO - Listado solicitado con �xito. No hay mascotas registradas
+2025-05-26 01:08:06,002 - INFO - n\�Datos de mascotas y due�os cargados desde CSV exitosamente!
+2025-05-26 01:08:06,006 - INFO - n\�Consultas cargadas desde JSON exitosamente!
+2025-05-26 01:09:54,947 - INFO - Inicio de la aplicaci�n.
+2025-05-26 01:10:00,939 - INFO - n\�Datos de mascotas y due�os cargados desde CSV exitosamente!
+2025-05-26 01:10:00,940 - INFO - n\�Consultas cargadas desde JSON exitosamente!
